@@ -10,7 +10,7 @@ const App = () => {
     <div className='text-2xl font-bold'>
         <Navbar />
         <Home />
-        {/* <About /> */}
+        <About />
         <Skills />
         <Work />
         <Contact />
